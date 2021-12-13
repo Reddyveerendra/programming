@@ -4,5 +4,5 @@ for i in range(1,int(len(n))):
     if(a>n[i]):
         a=n[i]
     else:
-        continue
+        continueCHE
 print(a)
